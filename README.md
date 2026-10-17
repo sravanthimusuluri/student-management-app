@@ -7,4 +7,4 @@ This project manages basic student information.
 - Maintain student IDs
 - View student records
 
-Application status: Initial version
+Application status: Development version
